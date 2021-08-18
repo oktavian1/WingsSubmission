@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214975135743",
+    "project_id": "shop-601a1",
+    "storage_bucket": "shop-601a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214975135743:android:7eccc31cf6cbf9ba7971ca",
+        "android_client_info": {
+          "package_name": "com.example.wingstask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214975135743-lgubdf7s6v2s2es9ggp46nir2tuira5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2PMQcdo-gSpf1FmcEGSaZtnfvnasY6bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214975135743-lgubdf7s6v2s2es9ggp46nir2tuira5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
